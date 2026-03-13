@@ -1,2 +1,2 @@
 # binod
-Binod BhAI - From UP with humor, Binod Bhai turns complex case studies into chai-stall conversations.
+Binod Bhai - From UP with humor, Binod turns complex case studies into chai-stall conversations.
